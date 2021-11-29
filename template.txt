@@ -1,0 +1,5 @@
+Dear CompanyName,
+    {Replace this with your message Email Body}
+
+Yours Sincerely,
+    {Replace this with your name}
